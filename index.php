@@ -1,6 +1,6 @@
 <?php
 
-$typeEmoji = "facebook";
+$typeEmoji = "google";
 $urlEmoji = "https://emojipedia.org/es/".$typeEmoji."/";
 
 function getFileContent($url)
